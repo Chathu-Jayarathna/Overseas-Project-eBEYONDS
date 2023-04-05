@@ -45,58 +45,57 @@ section {
     z-index: 1;
   }
   .navbar-brand {
-      display: inline-block;
-      padding-top: .3125rem;
-      padding-bottom: .3125rem;
-      margin-right: 1rem;
-      font-size: 1.25rem;
-      line-height: inherit;
-      white-space: nowrap;
-      color: #dd6434 !important;
-      text-transform: uppercase !important;
-      padding: 1em 1em;
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: #dd6434 !important;
+    text-transform: uppercase !important;
+    padding: 1em 1em;
   }
   
-  
   .navbar-dark .navbar-nav .nav-link {
-      color: rgba(255,255,255,.5);
-      text-transform: uppercase;
+    color: rgba(255,255,255,.5);
+    text-transform: uppercase;
   }
   .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
-      color: #000000;
-      background: #759199;
-      padding: 1em 1em;
+    color: #000000;
+    background: #759199;
+    padding: 1em 1em;
   }
   .navbar-dark .navbar-nav .nav-link {
-      color: #ffffff;
-      text-transform: uppercase;
-      padding: 1em 1em;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 1em 1em;
   }
   .footer {
-     position: relative;
-     left: 0;
-     bottom: 0;
-     width: 100%;
-     background-color: #000000;
-     color: white;
-     text-align: left;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    text-align: left;
   }
   .footer p {
-        padding: 0.8em 2.8em;
-        margin: 0;
+    padding: 0.8em 2.8em;
+    margin: 0;
   }
   select{
      
-      width: 170px;
-      padding: 7px;
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 11px;
-      font-weight: 600;
-      color: #171616;
-      line-height: 1;
-      border: 0;
-      border-radius: 0;
-      height: 30px;
+    width: 170px;
+    padding: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: #171616;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 30px;
       
   
       }
@@ -104,7 +103,7 @@ section {
     width:auto !important;
   }
   .drop-down-language {
-     padding: 0.2em 0.8em;
+    padding: 0.2em 0.8em;
   }
   .col-md-12 h1, .col-md-12 p {
     text-align: center;
@@ -207,10 +206,10 @@ section {
   
   div.dropdown > div.caption {
     background-color: #f2f2f2;
-      padding: 4px 60px 4px 5px;
-      border-radius: 3px;
-      cursor: pointer;
-      font-size: 13px;
+    padding: 4px 60px 4px 5px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 13px;
   }
   
   div.dropdown > div.list {
@@ -235,14 +234,14 @@ section {
   div.dropdown > div.caption:hover,
   div.dropdown > div.list > div.item:hover {
     background-color: white;
-      color: #404142;
+    color: #404142;
   }
   
   div.dropdown.open > div.caption {
-        border-radius: 3px 3px 0 0;
-      border-bottom: solid 1px #999;
-      font-size: 13px;
-      text-align: left;
+    border-radius: 3px 3px 0 0;
+    border-bottom: solid 1px #999;
+    font-size: 13px;
+    text-align: left;
   }
   
   div.dropdown.open > div.list {
@@ -261,10 +260,10 @@ section {
     pointer-events: none;
   }
   hr {
-      width: 30%;
+    width: 30%;
   }
   .lead-p {
-      font-size: 1.05rem;
-      font-weight: 300;
-      text-align: justify !important;
+    font-size: 1.05rem;
+    font-weight: 300;
+    text-align: justify !important;
   }

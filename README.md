@@ -17,14 +17,5 @@ This project is a simple website built using HTML 5, CSS 3, SASS, JavaScript ES6
 - **js/:** JavaScript files, including ES6 scripts for additional functionality.
 - **assets/:** Any additional assets such as images or icons.
 
-## Usage
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
-    ```
-
-2. Open `index.html` in your preferred web browser.
 
